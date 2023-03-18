@@ -83,6 +83,9 @@ Please also include screenshots on every task. You don't need to execute every t
 
 0. (easy) Show your terminal demonstrating your installation of OpenJDK 11
 
+<p align="justify">A continuación la instalación OpenJDK 11:</p>
+<p align="center"> <img src="./images/openJDK11.png" alt="edd" width="640" height="180" /> </p>
+
 1. (easy) Run this project using an IDE/Editor of your choice
 
 2. (medium) Execute the movie endpoint operations using curl, if needed please also check/fix the code to be REST compliant
